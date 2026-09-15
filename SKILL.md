@@ -1,6 +1,6 @@
 ---
 name: company-setup
-description: 合同会社・株式会社を自分で設立するときに、AIを「調べ役」ではなく「検算役」として使うための型。定款・登記・法人番号・税務届出（設立届／青色申告承認申請）・法人口座・D-U-N-S までを、期限の重みづけと表記統一を軸に伴走する。設立の手順を知りたい／期限を整理したい／税務署や県市の管轄を確定したい／届出書類の添付を確認したい／法人口座の審査に備えたい／登記や口座で使う表記を統一したいときに使う。「会社設立」「合同会社作りたい」「法人化」「設立届」「青色申告承認申請」「法人口座 落ちた」「電子定款」「バーチャルオフィス 登記」で起動。
+description: Incorporate a company in Japan (GK/KK) yourself, using AI as a fact-checker against primary government sources instead of an answer machine. Covers articles of incorporation, registration, corporate number, tax filings (設立届 / 青色申告), bank account screening with a virtual-office address, and D-U-N-S, with deadline weighting and notation consistency. Built from one real incorporation. 合同会社・株式会社を自分で設立するときに、AIを「調べ役」ではなく「検算役」として使うための型。定款・登記・法人番号・税務届出（設立届／青色申告承認申請）・法人口座・D-U-N-S までを、期限の重みづけと表記統一を軸に伴走する。設立の手順を知りたい／期限を整理したい／税務署や県市の管轄を確定したい／届出書類の添付を確認したい／法人口座の審査に備えたい／登記や口座で使う表記を統一したいときに使う。「会社設立」「合同会社作りたい」「法人化」「設立届」「青色申告承認申請」「法人口座 落ちた」「電子定款」「バーチャルオフィス 登記」で起動。
 allowed-tools:
   - bash
   - read
