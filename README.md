@@ -30,9 +30,15 @@
 ## インストール
 
 ```bash
+# skills CLI（推奨・更新も npx skills update で追える）
+npx skills add dataanalytics2020/claude-code-company-setup --skill company-setup -a claude-code -g
+
+# または git clone
 git clone https://github.com/dataanalytics2020/claude-code-company-setup \
   ~/.claude/skills/company-setup
 ```
+
+skills.sh: https://skills.sh/dataanalytics2020/claude-code-company-setup
 
 Claude Code を再起動すると、会社設立まわりの話題で自動的に呼ばれます。
 明示的に呼ぶなら `/company-setup`。
