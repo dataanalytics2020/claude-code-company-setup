@@ -68,6 +68,7 @@ Claude Code を再起動すると、会社設立まわりの話題で自動的�
 | `references/deadlines.md` | 期限の重みづけ。青色申告承認申請の期限計算と、均等割の誤解 |
 | `references/documents.md` | 3系統の提出先・添付書類の要否・記入値をそろえる表 |
 | `references/notation.md` | 表記統一。異体字（`栁` `髙` `﨑` …）の二重運用 |
+| `references/virtual-office.md` | バーチャルオフィス。選び方の比較、郵便（書留・本人限定）の扱い、契約直後に住所の誤登録を確認する理由 |
 | `references/bank-account.md` | 法人口座。VO × 設立直後は落ちる前提の設計と、落ちたあとの立て直し |
 | `references/sources.md` | 一次情報のURL（国税庁・法務省・法務局・e-Gov・年金機構） |
 | `scripts/check_notation.py` | 登記簿の表記を基準に、各所の登録内容の表記ゆれを検出する |
