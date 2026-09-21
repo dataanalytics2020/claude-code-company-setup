@@ -388,8 +388,8 @@ Claude Code と並走した過程で、**実際に止められた思い込み**�
 
 | 用途 | サービス | 備考 |
 |---|---|---|
-| 電子定款の作成（印紙代4万円が不要） | [マネーフォワード クラウド会社設立](https://px.a8.net/svt/ejp?a8mat=4BC36K+C0U742+4JGQ+HVFKY)（PR） | 有料プラン同時申込で作成料0円だった |
-| 本店（バーチャルオフィス） | [GMOオフィスサポート](https://px.a8.net/svt/ejp?a8mat=4BC36K+BLYCZM+4YV6+5YJRM)（PR） | 入会金・デポジット0円。口座審査では減点になる → `references/bank-account.md` |
-| セルフバックの確認 | [A8.net 無料会員登録](https://px.a8.net/svt/ejp?a8mat=2BYHP4+9Q2Y0Y+0K+10G5NM)（PR） | 🔴 法人口座・VO・会計ソフトはセルフバック対象のことがある。**契約する前に**登録して確認する。開設後では戻らない |
+| 電子定款の作成（印紙代4万円が不要） | [マネーフォワード クラウド会社設立](https://px.a8.net/svt/ejp?a8mat=4BC36K+C0U7VU+4JGQ+HVFKY)（PR） | 有料プラン同時申込で作成料0円だった |
+| 本店（バーチャルオフィス） | [GMOオフィスサポート](https://px.a8.net/svt/ejp?a8mat=4BC36K+BLYDRE+4YV6+5YJRM)（PR） | 入会金・デポジット0円。口座審査では減点になる → `references/bank-account.md` |
+| セルフバックの確認 | [A8.net 無料会員登録](https://px.a8.net/svt/ejp?a8mat=2BYHP4+9Q2YSQ+0K+10G5NM)（PR） | 🔴 法人口座・VO・会計ソフトはセルフバック対象のことがある。**契約する前に**登録して確認する。開設後では戻らない |
 
 記録の本文（note）: https://note.com/dataana2020/n/n60df3f04b92e

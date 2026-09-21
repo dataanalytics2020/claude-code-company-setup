@@ -60,6 +60,6 @@ VO 事業者と同系列の銀行でも例外ではなかった。落ちる前�
 合同会社を1社、士業に頼まず設立した記録（本店は GMOオフィスサポート 横浜・月1転送プラン）。
 実際に契約したサービスとして、紹介リンク（PR）を置いておく。**使っていないサービスは載せていない。**
 
-- GMOオフィスサポート（PR・実際に契約した本店）: https://px.a8.net/svt/ejp?a8mat=4BC36K+BLYCZM+4YV6+5YJRM
+- GMOオフィスサポート（PR・実際に契約した本店）: https://px.a8.net/svt/ejp?a8mat=4BC36K+BLYDRE+4YV6+5YJRM
 - バーチャルオフィスで登記した記録（note）: https://note.com/dataana2020/n/na37fa24d3e02
 - 設立の全体像と費用（note）: https://note.com/dataana2020/n/n60df3f04b92e
